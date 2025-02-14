@@ -1,0 +1,1 @@
+Developed an interactive HR Dashboard using Python, SQL, and Tableau to analyze hiring trends, employee performance, and salary distribution. Processed HR data with Pandas and SQL, ensuring accuracy. Designed KPI-driven Tableau visualizations, enabling data-driven HR decisions. Conducted EDA to uncover workforce patterns and optimize HR strategies.
